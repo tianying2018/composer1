@@ -1,0 +1,14 @@
+{
+    "name": "tianying2018/composer1",
+    "description": "a test composer project",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "tianying2018",
+            "email": "971612404@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
