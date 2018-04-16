@@ -2,7 +2,7 @@
     "name": "tianying2018/composer1",
     "description": "a test composer project",
     "type": "project",
-    "license": "mit",
+    "license": "min",
     "authors": [
         {
             "name": "tianying2018",
